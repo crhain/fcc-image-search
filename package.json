@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/crhain/fcc-image-search#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "node-fetch": "^1.6.3"
   }
 }
