@@ -57,6 +57,8 @@ function makeSearchRequest(search, offset){
         headers: myHeaders
     };
 
+    url += "?q=" + search;
+
    return fetch(url, myInit);
 }
 
