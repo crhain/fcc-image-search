@@ -4,7 +4,7 @@
   "description": "An image search abstraction layer for freeCodeCamp",
   "main": "index.js",
   "engines": {
-    "node": "7.8.0"
+    "node": "8.1.4"
   },
   "directories": {
     "doc": "docs"
